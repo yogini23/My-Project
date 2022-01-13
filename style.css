@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@1,300&display=swap');
+body{
+    font-family: 'Zen Kurenaido', sans-serif;
+    background-image: url(https://ih1.redbubble.net/image.368735470.9960/flat,800x800,075,f.u1.jpg);
+    background-size: cover;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    color: plum;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: peachpuff;
+}
+h3{
+    font-size: 50px;
+    color: skyblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+form{
+    font-size: 25px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
+    margin-top: 50px;
+    width: 330px;
+    background: palevioletred;
+    height: 40px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: 900;
+    box-shadow: 6px 6px 6px white,-6px 6px 6px whitesmoke ;
+}
+button:hover{
+    box-shadow: beige;
+}
